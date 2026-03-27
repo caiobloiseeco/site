@@ -1,7 +1,6 @@
----
-layout: single
-author_profile: true
----
+main:
+  - title: "About"
+    url: /about/
 
 Hi, my name is Caio Bloise and I'm currently a Postdoctoral Researcher at [Insper](https://www.insper.edu.br/en/home), under supervision of [Sergio Firpo](https://www.insper.edu.br/en/docentes/sergio-pinheiro-firpo).
 

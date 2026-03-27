@@ -263,7 +263,7 @@ defaults:
       # _research
   - scope:
       path: ""
-      type: reserach
+      type: research
     values:
       layout: single
       author_profile: true

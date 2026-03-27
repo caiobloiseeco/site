@@ -257,6 +257,8 @@ defaults:
       share: true
       comments: true
   # _publications
+
+      # _research
   - scope:
       path: ""
       type: reserach

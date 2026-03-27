@@ -1,10 +1,6 @@
 ---
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+layout: single
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Hi, my name is Caio Bloise and I'm currently a Postdoctoral Researcher at [Insper](https://www.insper.edu.br/en/home), under supervision of [Sergio Firpo](https://www.insper.edu.br/en/docentes/sergio-pinheiro-firpo).

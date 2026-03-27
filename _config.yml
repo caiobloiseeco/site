@@ -258,8 +258,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
-
       # _research
   - scope:
       path: ""

@@ -1,6 +1,7 @@
 ---
 title: "Meu primeiro paper"
 collection: research
+permalink: /research/test/
 ---
 
-Descrição do paper.
+This is a test research page.

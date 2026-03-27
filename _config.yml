@@ -221,7 +221,7 @@ collections:
     permalink: /:collection/:path/
   research:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:research/:path/
   talks:
     output: true
     permalink: /:collection/:path/

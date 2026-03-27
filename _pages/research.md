@@ -5,11 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working Papers
+{% include base_path %}
 
-- Paper 1 (em andamento)
-- Paper 2 (job market paper)
-
-## Publications
-
-- Seu artigo publicado aqui
+{% for post in site.research %}
+  <h2><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h2>
+  <p>{{ post.excerpt }}</p>
+{% endfor %}

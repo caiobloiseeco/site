@@ -7,8 +7,7 @@ Hi, my name is Caio Bloise and I'm currently a Postdoctoral Researcher at [Inspe
 
 I was previously an Assistant Professor at [Fucape Business School](https://fucape.br/). I was a visiting student researcher at [University of Toronto](https://www.economics.utoronto.ca/).
 
-**Research Interests**:
+**Research Interests**
 
 - Quantitative Macroeconomics
 - Labor Economics
-  
